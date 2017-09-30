@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, JigsawActivity!</string>
+    <string name="app_name">Jigsaw</string>
+    <string name="select_device_dialog">Select source</string>    
+    <string name="alert_dialog_ok">O K</string>
+    <string name="alert_dialog_cancel">Cancel</string>
+</resources>
